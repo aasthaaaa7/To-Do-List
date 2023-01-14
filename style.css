@@ -24,7 +24,7 @@ p {
 	color: #FFCD5D;
 }
 
-#button{
+button#enter{
     display: inline-block;
     background-color:#fc999b;
     color:#ffffff;
@@ -34,7 +34,8 @@ p {
     padding: 5px 15px;
     }
     
-    #button:hover{
+	
+button#enter:hover{
     cursor: pointer;
     opacity: .8;
 }
